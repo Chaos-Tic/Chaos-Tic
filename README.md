@@ -5,31 +5,44 @@
   </picture>
 </p>
 
-I build desktop tools that feel native and stay out of the way, and small utilities
-for authorized security testing. Everything runs locally: no accounts, no telemetry.
+<p align="center">
+  I build desktop tools that feel native and stay out of the way,<br>
+  and small utilities for authorized security testing.<br>
+  <sub>Everything runs locally: no accounts, no telemetry.</sub>
+</p>
 
-### Featured
+<br>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/Chaos-Tic/Lorenz">Lorenz</a></h4>
-      File conversion at your cursor. Drag a file, tap <kbd>Shift</kbd>,
-      <kbd>Ctrl</kbd> or <kbd>Alt</kbd>, and release on a choice in a frosted-glass
-      wheel. Windows and Linux, in English and French.<br><br>
-      <sub>Rust · C++ / Qt 6 · FFmpeg · ImageMagick · Pandoc</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/Chaos-Tic/Chaostic-Tool">ChaosticTool</a></h4>
-      A Linux control surface for authorized engagements: structured recon, tool
-      orchestration, routing control and evidence captured per target.<br><br>
-      <sub>Python · Rich terminal UI · Linux</sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/Chaos-Tic/Lorenz"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/card-lorenz-dark.svg">
+    <img src="assets/card-lorenz-light.svg" alt="Lorenz — file conversion at your cursor" width="49%">
+  </picture></a>
+  <a href="https://github.com/Chaos-Tic/Chaostic-Tool"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/card-chaostic-dark.svg">
+    <img src="assets/card-chaostic-light.svg" alt="ChaosticTool — Linux pentest control surface" width="49%">
+  </picture></a>
+</p>
+
+### Now building
+
+**Lorenz 0.2**: a frosted-glass wheel that magnifies the choice under your pointer, in
+English and French. [See it](https://github.com/Chaos-Tic/Lorenz#three-wheels)
+
+<p align="center">
+  <a href="https://github.com/Chaos-Tic/Lorenz"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chaos-Tic/Lorenz/main/docs/media/three-wheels-dark.png">
+    <img src="https://raw.githubusercontent.com/Chaos-Tic/Lorenz/main/docs/media/three-wheels.png" alt="The three Lorenz wheels in frosted glass" width="100%">
+  </picture></a>
+</p>
 
 ### Toolbox
 
-Rust · C++ and Qt 6 · Python · Linux (Arch, KDE Plasma) · Windows · GitHub Actions
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+  <img src="assets/stack-light.svg" alt="Rust, C++ and Qt 6, Python, Linux, KDE Plasma, Windows, GitHub Actions, Inno Setup" width="100%">
+</picture>
 
-<sub>Security work shown here is for systems I am authorized to test.</sub>
+<br>
+
+<p align="center"><sub>Security work shown here is for systems I am authorized to test.</sub></p>
