@@ -14,6 +14,15 @@
 <br>
 
 <p align="center">
+  <a href="https://github.com/Chaos-Tic/Lyapunov/releases/tag/v0.1.0"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/card-lyapunov-dark.svg">
+    <img src="assets/card-lyapunov-light.svg" alt="Lyapunov 0.1.0 — save an activity as a card and resume it later" width="100%">
+  </picture></a>
+</p>
+
+<p align="center">New: <a href="https://github.com/Chaos-Tic/Lyapunov/releases/tag/v0.1.0">Lyapunov 0.1.0</a> for Linux and Windows.</p>
+
+<p align="center">
   <a href="https://github.com/Chaos-Tic/Lorenz"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/card-lorenz-dark.svg">
     <img src="assets/card-lorenz-light.svg" alt="Lorenz — file conversion at your cursor" width="49%">
@@ -24,7 +33,7 @@
   </picture></a>
 </p>
 
-### Now building
+### In progress
 
 **Lorenz 0.2**: a frosted-glass wheel that magnifies the choice under your pointer, in
 English and French. [See it](https://github.com/Chaos-Tic/Lorenz#three-wheels)
