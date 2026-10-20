@@ -33,18 +33,6 @@
   </picture></a>
 </p>
 
-### In progress
-
-**Lorenz 0.2**: a frosted-glass wheel that magnifies the choice under your pointer, in
-English and French. [See it](https://github.com/Chaos-Tic/Lorenz#three-wheels)
-
-<p align="center">
-  <a href="https://github.com/Chaos-Tic/Lorenz"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chaos-Tic/Lorenz/main/docs/media/three-wheels-dark.png">
-    <img src="https://raw.githubusercontent.com/Chaos-Tic/Lorenz/main/docs/media/three-wheels.png" alt="The three Lorenz wheels in frosted glass" width="100%">
-  </picture></a>
-</p>
-
 ### Toolbox
 
 <picture>
