@@ -11,16 +11,20 @@
   <sub>Everything runs locally: no accounts, no telemetry.</sub>
 </p>
 
+<p align="center">
+  <a href="https://tool.chaostic.cloud"><strong>Explore the live Chaos-Tic showcase →</strong></a>
+</p>
+
 <br>
 
 <p align="center">
-  <a href="https://github.com/Chaos-Tic/Lyapunov/releases/tag/v0.1.0"><picture>
+  <a href="https://github.com/Chaos-Tic/Lyapunov/releases/tag/v0.2.0"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/card-lyapunov-dark.svg">
-    <img src="assets/card-lyapunov-light.svg" alt="Lyapunov 0.1.0 — save an activity as a card and resume it later" width="100%">
+    <img src="assets/card-lyapunov-light.svg" alt="Lyapunov 0.2.0 — save an activity as a card and resume it later" width="100%">
   </picture></a>
 </p>
 
-<p align="center">New: <a href="https://github.com/Chaos-Tic/Lyapunov/releases/tag/v0.1.0">Lyapunov 0.1.0</a> for Linux and Windows.</p>
+<p align="center">Latest: <a href="https://github.com/Chaos-Tic/Lyapunov/releases/tag/v0.2.0">Lyapunov 0.2.0</a> and <a href="https://github.com/Chaos-Tic/Lorenz/releases/tag/v1.2.1">Lorenz 1.2.1</a> for Linux and Windows.</p>
 
 <p align="center">
   <a href="https://github.com/Chaos-Tic/Lorenz"><picture>
