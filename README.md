@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-    <img src="assets/banner-light.svg" alt="Chaos-Tic — desktop tools that stay out of the way, and authorized security testing" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.gif">
+    <img src="assets/banner-light.gif" alt="Chaos-Tic — order out of chaos. A Lorenz attractor draws itself inside a frosted-glass frame: desktop tools that stay out of the way, and authorized security testing." width="100%">
   </picture>
 </p>
 
@@ -19,23 +19,26 @@
 
 <p align="center">
   <a href="https://github.com/Chaos-Tic/Lyapunov/releases/tag/v0.2.0"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/card-lyapunov-dark.svg">
-    <img src="assets/card-lyapunov-light.svg" alt="Lyapunov 0.2.0 — save an activity as a card and resume it later" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/card-lyapunov-dark.gif">
+    <img src="assets/card-lyapunov-light.gif" alt="Lyapunov — pick up where you left off. A stack of activity cards opens one by one, each showing its apps, folders and a Resume this space button." width="100%">
+  </picture></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Chaos-Tic/Lorenz"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/card-lorenz-dark.gif">
+    <img src="assets/card-lorenz-light.gif" alt="Lorenz — a lighter way to convert. The three wheels light up in turn: Convert with Shift, Tools with Ctrl, Actions with Alt." width="100%">
+  </picture></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Chaos-Tic/Chaostic-Tool"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/card-chaostic-dark.gif">
+    <img src="assets/card-chaostic-light.gif" alt="ChaosticTool — one reconnaissance pipeline. The desktop control center walks through targets, the tool arsenal, a live execution and the report, on demonstration data." width="100%">
   </picture></a>
 </p>
 
 <p align="center">Latest: <a href="https://github.com/Chaos-Tic/Lyapunov/releases/tag/v0.2.0">Lyapunov 0.2.0</a> and <a href="https://github.com/Chaos-Tic/Lorenz/releases/tag/v1.2.1">Lorenz 1.2.1</a> for Linux and Windows.</p>
-
-<p align="center">
-  <a href="https://github.com/Chaos-Tic/Lorenz"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/card-lorenz-dark.svg">
-    <img src="assets/card-lorenz-light.svg" alt="Lorenz — file conversion at your cursor" width="49%">
-  </picture></a>
-  <a href="https://github.com/Chaos-Tic/Chaostic-Tool"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/card-chaostic-dark.svg">
-    <img src="assets/card-chaostic-light.svg" alt="ChaosticTool — Linux pentest control surface" width="49%">
-  </picture></a>
-</p>
 
 ### Toolbox
 
