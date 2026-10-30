@@ -20,21 +20,21 @@
 <p align="center">
   <a href="https://github.com/Chaos-Tic/Lyapunov/releases/tag/v0.2.0"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/card-lyapunov-dark.gif">
-    <img src="assets/card-lyapunov-light.gif" alt="Lyapunov — pick up where you left off. A stack of activity cards opens one by one, each showing its apps, folders and a Resume this space button." width="100%">
+    <img src="assets/card-lyapunov-light.gif" alt="Lyapunov — pick up where you left off. Capture this space turns the current activity into a Trip photos card; opening it and pressing Resume this space shows the plan, then the report." width="100%">
   </picture></a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Chaos-Tic/Lorenz"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/card-lorenz-dark.gif">
-    <img src="assets/card-lorenz-light.gif" alt="Lorenz — a lighter way to convert. The three wheels light up in turn: Convert with Shift, Tools with Ctrl, Actions with Alt." width="100%">
+    <img src="assets/card-lorenz-light.gif" alt="Lorenz — a lighter way to convert. A file is dragged, Shift opens the Convert wheel, Ctrl the Tools wheel, Alt the Actions wheel, and releasing on WebP creates photo.webp next to the original." width="100%">
   </picture></a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Chaos-Tic/Chaostic-Tool"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/card-chaostic-dark.gif">
-    <img src="assets/card-chaostic-light.gif" alt="ChaosticTool — one reconnaissance pipeline. The desktop control center walks through targets, the tool arsenal, a live execution and the report, on demonstration data." width="100%">
+    <img src="assets/card-chaostic-light.gif" alt="ChaosticTool — one reconnaissance pipeline. The desktop control center, the tool arsenal, the execution view and the history, on demonstration data." width="100%">
   </picture></a>
 </p>
 
