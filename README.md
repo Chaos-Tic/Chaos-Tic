@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://tool.chaostic.cloud"><strong>Explore the live Chaos-Tic showcase →</strong></a>
+  <a href="https://tools.chaostic.cloud"><strong>Explore the live Chaos-Tic showcase →</strong></a>
 </p>
 
 <br>
